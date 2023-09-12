@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [picoDarkroomTimer](https://github.com/ajanky/Darkroom3)
 
-- 🌱 I’m currently studying **numerical analysis and uncertainty quantification**
+- 🌱 I’m currently studying **numerical analysis of stochastic and deterministic (partial) differential equations**
 
 - 📸 Some of my photos are available at [https://negativeimpression.com/](https://negativeimpression.com/)
 
