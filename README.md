@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm Christoph</h1>
 <h3 align="center">A grad student of Mathematics from Berlin</h3>
 
-- 🔭 I’m currently working on [picoDarkroomTimer](https://github.com/ajanky/Darkroom3)
+- I’m currently working on [picoDarkroomTimer](https://github.com/ajanky/Darkroom3)
 
-- 🌱 I’m currently studying **numerical analysis of stochastic and deterministic (partial) differential equations**
+- I’m currently studying **numerical analysis of stochastic and deterministic (partial) differential equations** as my master's thesis investigates the use of interacting particle Langevin dynamics for estimation of posterior and noise in Bayesian inverse problems
+
 
 <!-- - 📸 Some of my photos are available at [https://negativeimpression.com/](https://negativeimpression.com/) -->
 
